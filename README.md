@@ -22,4 +22,4 @@ npm install
 npm start
 ```
 
-You can directly join your room by opening `http://localhost:3000?roomurl=https://YOURDOMAIN.daily.co/YOURROOM`.
+You can directly join your room by opening `http://localhost:3000?roomUrl=https://YOURDOMAIN.daily.co/YOURROOM`.
